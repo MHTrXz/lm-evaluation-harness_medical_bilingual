@@ -1,0 +1,3 @@
+dataset_name: mmlu_college_medicine_test
+include: _default_template_yaml
+task: mmlu_college_medicine_test

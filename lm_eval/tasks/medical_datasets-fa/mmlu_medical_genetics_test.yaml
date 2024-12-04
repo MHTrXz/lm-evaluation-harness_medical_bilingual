@@ -1,0 +1,3 @@
+dataset_name: mmlu_medical_genetics_test
+include: _default_template_yaml
+task: mmlu_medical_genetics_test

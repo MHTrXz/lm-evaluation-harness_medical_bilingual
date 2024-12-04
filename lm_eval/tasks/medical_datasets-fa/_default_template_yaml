@@ -1,5 +1,5 @@
-group: medical_specialities-fa
-dataset_path: MHTrXz/medical-specialities-fa
+group: medical_datasets-fa
+dataset_path: MHTrXz/medical-datasets-fa
 test_split: test
 output_type: multiple_choice
 doc_to_text: !function utils.doc_to_text

@@ -1,0 +1,3 @@
+dataset_name: medmcqa_validation
+include: _default_template_yaml
+task: medmcqa_validation

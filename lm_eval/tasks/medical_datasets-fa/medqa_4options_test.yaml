@@ -1,0 +1,3 @@
+dataset_name: medqa_4options_test
+include: _default_template_yaml
+task: medqa_4options_test
